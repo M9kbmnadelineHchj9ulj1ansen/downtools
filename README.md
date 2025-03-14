@@ -4,3 +4,4 @@ Features: Time logging, reports, and cross-platform support.
 Install: Clone repo with  and run .
 Start QuickTrack: Run  and visit .
 Requirements: Node.js 16.0+, modern web browser.
+Usage:  to track a project.
