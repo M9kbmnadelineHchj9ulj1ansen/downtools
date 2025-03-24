@@ -9,3 +9,4 @@ Contribute: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 License: MIT License, see [LICENSE](LICENSE) for details.
 Testing: Run  to execute the test suite.
 FAQ: Export reports via [reports.md](docs/reports.md).
+Community: Join discussions at [Discord](https://discord.gg/quicktrack).
