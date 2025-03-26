@@ -10,3 +10,4 @@ License: MIT License, see [LICENSE](LICENSE) for details.
 Testing: Run  to execute the test suite.
 FAQ: Export reports via [reports.md](docs/reports.md).
 Community: Join discussions at [Discord](https://discord.gg/quicktrack).
+[![Build Status](https://github.com/user/quicktrack/workflows/CI/badge.svg)](https://github.com/user/quicktrack/actions)
